@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "sdl.h": "c",
+        "sdl_image.h": "c",
+        "stdio.h": "c",
+        "typeinfo": "c",
+        "rendering.h": "c",
+        "game_logic.h": "c",
+        "limits.h": "c",
+        "string.h": "c",
+        "sdl_ttf.h": "c",
+        "game_vars.h": "c",
+        "check_input.h": "c"
+    }
+}
